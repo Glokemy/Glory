@@ -1,0 +1,2 @@
+# Glory
+my first repo
